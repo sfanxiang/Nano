@@ -1,3 +1,7 @@
+# Nano
+
+Nano: Nested Human-in-the-Loop Reward Learning for Controlling Distribution of Generated Text.
+
 ## Instructions
 
 If at stage 0, run `python scripts/gen.py --stage 0 --prompts <prompts>`.
