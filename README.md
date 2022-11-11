@@ -1,6 +1,8 @@
 # Nano
 
-Nano: Nested Human-in-the-Loop Reward Learning for Controlling Distribution of Generated Text.
+Nano: Nested Human-in-the-Loop Reward Learning for Few-shot Language Model Control.
+
+This is the repository for https://arxiv.org/abs/2211.05750.
 
 ## Instructions
 
